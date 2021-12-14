@@ -1,0 +1,21 @@
+.h1 {
+    color:royalblue;
+    font-family: Verdana;
+    font-size: 300;
+    text-align: center;
+    }
+
+.p {
+    font-family: Verdana;
+    width: 1200px;
+    margin-left:50px;
+    text-align: 300px, justify;
+}
+
+.img1{ /* La imagen de puede correr con margin-left: 100px; o se puede centrar con text-aling:center;*/
+    margin-left:280px;
+}
+.inicio{
+    color:aqua ;
+    font-size: 30px;
+}
